@@ -1,0 +1,7 @@
+{
+  "name": "DocTutorials CCL",
+  "description": "A professional clinical case analysis platform for medical students and doctors featuring multi-modal AI audits, clinical journey flowcharts, and advanced diagnostic imaging analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
