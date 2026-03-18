@@ -1,8 +1,0 @@
-{
-  "name": "DT Clinical Case Library",
-  "description": "A comprehensive clinical case library for medical professionals with AI-powered extraction, analysis, and comparison.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
